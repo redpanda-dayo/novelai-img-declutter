@@ -1,0 +1,1 @@
+# novelai-dirs-declutter
