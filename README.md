@@ -1,4 +1,4 @@
-# novelai-dirs-declutter
+# novelai-img-declutter
 
 Installation
 
